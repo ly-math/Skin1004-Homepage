@@ -1,0 +1,24 @@
+:root {
+    /* font family */
+    --heading-font-family: 'Montserrat', sans-serif;
+    --text-font-family: "Nunito Sans", sans-serif;
+
+    /* color */
+    --navigation-background: #fbf9f7;
+    --navigation-text-color: #231f20;
+    --navigation-text-color-light: rgba(35, 31, 32, 0.5);
+    --navigation-hover-color: rgb(236, 236, 236);
+    --navigation-clicked-color: rgb(220, 220, 220);
+
+    --light-black: rgb(231, 231, 231);
+    --white-text-color: #ffffff;
+
+    --text-color: #231f20;
+    --text-color-light: #7f7a73;
+    --header-background: #a8915f;
+    --header-text-color: #ffff;
+    --button-background: #907344;
+
+    --footer-background: #907344;
+    --footer-text-color: #ffffff;
+}
